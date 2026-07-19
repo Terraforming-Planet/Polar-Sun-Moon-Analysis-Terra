@@ -242,3 +242,16 @@ https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26
 ```bash
 hf sync hf://buckets/8Planetterraforming/planet-alphabet-mapping-1-26-bucket ./local
 ```
+## Gallery
+
+<p align="center">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/A.png" width="170">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/B.png" width="170">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/C.png" width="170">
+</p>
+
+<p align="center">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/D.png" width="170">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/E.png" width="170">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/F.png" width="170">
+</p>
