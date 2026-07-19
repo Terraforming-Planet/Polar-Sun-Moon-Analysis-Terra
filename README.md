@@ -242,16 +242,18 @@ https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26
 ```bash
 hf sync hf://buckets/8Planetterraforming/planet-alphabet-mapping-1-26-bucket ./local
 ```
-## Gallery
+
+## Validation Examples
 
 <p align="center">
-  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/A.png" width="170">
-  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/B.png" width="170">
-  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/C.png" width="170">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/correct/manual_corrected_reference.png" width="420" alt="Correct Reference">
 </p>
 
 <p align="center">
-  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/D.png" width="170">
-  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/E.png" width="170">
-  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/F.png" width="170">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/errors/error_1.png" width="420" alt="Error 1">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/errors/error_2.png" width="420" alt="Error 2">
+</p>
+
+<p align="center">
+  <img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/errors/error_3.png" width="420" alt="Error 3">
 </p>
