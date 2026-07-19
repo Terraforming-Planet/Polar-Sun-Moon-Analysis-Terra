@@ -1,5 +1,5 @@
-# Polar Sun Moon Analysis
-<img width="1536" height="1024" alt="file_00000000f9e471f8b9c0c17cc1835537" src="https://github.com/user-attachments/assets/9b46b022-b3c1-4429-8f42-0b9ebad7daba" />
+# Planet Polar Sun Moon Analysis Terra 
+<img width="1536" height="519" alt="31232" src="https://github.com/user-attachments/assets/c5f4c852-fa92-49e0-8006-894ca3718397" />
 
 Production-quality Python 3.12 scientific project for analyzing seasonal apparent altitude of the Sun and Moon at the North and South Poles during vernal and autumnal equinoxes from 2006 through 2024.
 
