@@ -1,7 +1,4 @@
 # Polar Sun Moon Analysis
-from datasets import load_dataset
-
-ds = load_dataset("8Planetterraforming/planet-alphabet-mapping-1-26")
 
 Production-quality Python 3.12 scientific project for analyzing seasonal apparent altitude of the Sun and Moon at the North and South Poles during vernal and autumnal equinoxes from 2006 through 2024.
 
@@ -113,3 +110,135 @@ The scientific summary is generated only from computed Horizons ephemerides and 
 ## License
 
 MIT License. See `LICENSE`.
+
+
+# Planet Alphabet Mapping 1–26
+
+## Vision
+
+The long-term goal of this project is to build a **scientifically accurate 3D planetary monitoring model** based on real observational data rather than flat 2D imagery.
+
+The dataset is designed to support spatial mapping of planets and, ultimately, future planetary engineering and desert restoration research. The objective is to develop tools capable of continuously monitoring selected regions of Earth and presenting reliable geometric representations for scientific analysis.
+
+Instead of treating the planet as a collection of independent images, every object should become a measurable element inside a single three-dimensional model.
+
+---
+
+## Scientific Objectives
+
+The model is intended to support:
+
+- 3D reconstruction of Earth's geometry using real observations.
+- Continuous monitoring of selected regions and objects.
+- Water resource management.
+- River and valley analysis.
+- Terrain geometry analysis.
+- Desert monitoring and future restoration planning.
+- Environmental change detection.
+- Decision support during natural hazards.
+- Long-term monitoring of polar regions.
+- Scientific analysis of the Sun and Moon observations from both the North and South Poles.
+- Analysis of seasonal changes related to Earth's axial tilt using observational datasets.
+- Integration of multiple scientific datasets into one spatial model.
+
+The long-term vision is to create a monitoring system that helps humanity better understand Earth's changing environment and supports sustainable management of water, land, and natural resources.
+
+---
+
+## Dataset Philosophy
+
+This dataset is **not** intended for image classification alone.
+
+Its purpose is to assign every detected object:
+
+- a unique identifier,
+- a semantic class,
+- a numerical representation,
+- spatial coordinates,
+- geometric properties,
+- physical relationships with neighboring objects.
+
+Every object should have one unambiguous meaning.
+
+Incorrect labels reduce scientific quality and should be rejected during dataset validation.
+
+Accuracy is more important than dataset size.
+
+---
+
+## Future Goal
+
+The final system should enable scientific monitoring of:
+
+- deserts,
+- rivers,
+- valleys,
+- glaciers,
+- polar regions,
+- vegetation,
+- terrain evolution,
+- planetary geometry.
+
+The ultimate objective is to support future research into sustainable land management and the long-term restoration of arid regions through data-driven scientific analysis.
+
+---
+
+# Sample Dataset Images
+
+<table>
+<tr>
+<td align="center">
+<img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/A.png" width="170"><br>
+<b>A</b><br>
+Object Identification
+</td>
+
+<td align="center">
+<img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/B.png" width="170"><br>
+<b>B</b><br>
+Terrain Geometry
+</td>
+
+<td align="center">
+<img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/C.png" width="170"><br>
+<b>C</b><br>
+Surface Mapping
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/D.png" width="170"><br>
+<b>D</b><br>
+Water Analysis
+</td>
+
+<td align="center">
+<img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/E.png" width="170"><br>
+<b>E</b><br>
+Planet Monitoring
+</td>
+
+<td align="center">
+<img src="https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26/resolve/main/examples/F.png" width="170"><br>
+<b>F</b><br>
+3D Spatial Reconstruction
+</td>
+</tr>
+</table>
+
+> Replace the example image paths above with the actual image filenames stored in the dataset repository.
+
+---
+
+## Dataset
+
+https://huggingface.co/datasets/8Planetterraforming/planet-alphabet-mapping-1-26
+
+---
+
+## Synchronization
+
+```bash
+hf sync hf://buckets/8Planetterraforming/planet-alphabet-mapping-1-26-bucket ./local
+```
